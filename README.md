@@ -83,14 +83,14 @@ This research employed a binary variable, **default payment (Yes = 1, No = 0)**,
 2. Explored data, checked for null and duplicate values
 3. Data Pre-processing
 4. EDA on features
--- Univariate, Bivariate and Multivariate analysis
--- Checked distributions of numeric variable
--- Checked for imbalance of the dataset. Handled imbalance by oversampling the minor class, using SMOTE
+- Univariate, Bivariate and Multivariate analysis
+- Checked distributions of numeric variable
+- Checked for imbalance of the dataset. Handled imbalance by oversampling the minor class, using SMOTE
 5. Modelling (Implementing Machine Learning Algorithms)
--- Logistic Regression
--- Decision Tree
--- Random Forest
--- SVM
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- SVM
 6. Hyperparameter tuning for some models
 7. Evaluated all models based on metrics such as - Accuracy, Precision, Recall, Confusion Matrix, f1 score
 8. Model Selection
